@@ -1,0 +1,25 @@
+mcimiolek@ccas020:~/bioinf/GenicReportRegex$ srun python3 genicReportRegex.py
+
++++++++++ Upstream and Genic Report ++++++++++++++++
+
+Starting sequence is: cgccatataatgctcgtccgcgcccta
+Converted to uppercase: CGCCATATAATGCTCGTCCGCGCCCTA
+
+Length of starting sequence is: 27
+
+----------------------------------------------------
+
+Upstream sequence is: CGCCATATA
+
+Gene sequence is:  ATGCTCGTCCGCGCCCTA
+Codon 1 = ATG
+Codon 2 = CTC
+Codon 3 = GTC
+
+----------------------------------------------------
+
+Upstream length is: 9
+Gene length is: 18
+
+----------------------------------------------------
+

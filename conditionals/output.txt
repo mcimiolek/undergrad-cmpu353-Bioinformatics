@@ -1,0 +1,22 @@
+> mcimiolek@ccas020:~/bioinf/conditionals$ srun python3 at_content.py
+> teg436
+> mcimiolek@ccas020:~/bioinf/conditionals$ srun python3 several_species.py
+> kdy647
+> jdg766
+> kdy533
+> mcimiolek@ccas020:~/bioinf/conditionals$ srun python3 length_range.py
+> kdy647
+> teg436
+> mcimiolek@ccas020:~/bioinf/conditionals$ srun python3 complex_conditon.py
+> kdy533
+> hdt739
+> hdu045
+> mcimiolek@ccas020:~/bioinf/conditionals$ srun python3 high_low_medium.py
+> kdy647 has high AT content
+> jdg766 has medium AT content
+> kdy533 has medium AT content
+> hdt739 has low AT content
+> hdu045 has medium AT content
+> teg436 has medium AT content
+> mcimiolek@ccas020:~/bioinf/conditionals$
+

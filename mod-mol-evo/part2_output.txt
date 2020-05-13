@@ -1,0 +1,15 @@
+Codon Position 1:
+	Mean:	1.3981603153745072
+	Median:	1
+	Mode:	1
+
+Codon Position 2:
+	Mean:	1.2680683311432326
+	Median:	1
+	Mode:	1
+
+Codon Position 3:
+	Mean:	2.2013157894736843
+	Median:	2.0
+	Mode:	2
+
